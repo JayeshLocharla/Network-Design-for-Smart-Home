@@ -30,3 +30,50 @@ the smart home environment and the remote environment are established
 through the internet cloud. It is basically the internet service provider to the
 whole network. All the data related to the IOT network; smart home network is
 stored in the server database in the internet cloud
+
+## Project Report
+[Project Report](https://github.com/JayeshLocharla/Network-Design-for-Smart-Home/blob/main/Project%20Report.pdf)
+
+## License 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+<br/>
+This project is under the Apache 2.0 License. See [LICENSE](LICENSE) for Details.
+
+## Contributors
+
+<table>
+  <tr>
+   <td align="center"><img src="https://user-images.githubusercontent.com/51742771/144631991-fb3fe5ab-48cf-442a-8144-e219124dc31f.jpg" width="210px;" height="210px;" alt=""/><br /><sub><b>Jayesh Locharla</b></sub></a><br />
+  <br/>
+   <p align="center">
+   <a href="https://github.com/JayeshLocharla" alt="Github">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
+  </a>
+  </p>
+</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/51742771/144631900-5f912e5d-ba9c-477e-bbbd-edd9ce246c42.jpeg" width="210px;" height="210px;" alt=""/><br /><sub><b>Prabhat Addanki</b></sub></a><br />
+  <br/>
+   <p align="center">
+   <a href="https://github.com/prabhat187" alt="Github">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
+  </a>
+  </p>
+</td>
+   <td align="center"><img src="https://user-images.githubusercontent.com/51742771/144631562-bf052baf-b6b9-4e12-b887-90cdd148a5ac.jpeg" width="210px;" height="210px;"  alt=""/><br/><sub><b>Yaswanth Vegi</b></sub></a><br />
+   <br/>
+   <p align="center">
+   <a href="https://github.com/izukuasta99" alt="Github">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
+  </a>
+  </p>
+</td>
+   <td align="center"><img src="https://user-images.githubusercontent.com/51742771/144629263-2fbe1c1c-0871-457f-84a6-b9942843bca3.png" width="210px"; height="210px;" alt=""/><br /><sub><b>Pranav B Kashyap</b></sub></a><br />
+   <br/>
+   <p align="center">
+   <a href="https://github.com/Pranav1007" alt="Github">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
+  </a>
+  </p>
+</td>
+    </tr>
+    </table>
